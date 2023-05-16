@@ -6,7 +6,7 @@
 
 Click on the button below to deploy Metabase to Scalingo within minutes.
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/Scalingo/metabase-scalingo#master)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/benjamin-staging/metabase-scalingo#master)
 
 ## Deploying Using Scalingo's Command Line Tool
 
